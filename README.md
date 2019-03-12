@@ -6,3 +6,4 @@ Ejercicios de clase/ 2019
 3. [Movimiento](https://vhernandezr.github.io/medios.interactivos/E-3/)/[Codigo](https://github.com/vhernandezr/medios.interactivos/blob/master/E-3/sketch.js)
 4. [interaccion](https://vhernandezr.github.io/medios.interactivos/E-4/)/[Codigo](https://github.com/vhernandezr/medios.interactivos/blob/master/E-4/sketch.js)
 5. [Snake](https://vhernandezr.github.io/medios.interactivos/E-5/)/[Codigo](https://github.com/vhernandezr/medios.interactivos/blob/master/E-5/sketch.js)
+6. [Tiempo](https://vhernandezr.github.io/medios.interactivos/E-6/)/[Codigo](https://github.com/vhernandezr/medios.interactivos/blob/master/E-6/sketch.js)
