@@ -167,7 +167,7 @@ noFill();
 ////cada minuto cambio 
   if (miMinuto==miMinuto) {
 
-    if ((miMinuto=>0)&&(miMinuto<1)) {
+    if ((miMinuto>=0)&&(miMinuto<1)) {
       colR=146;
       colG=40;
       colB=175;
@@ -175,7 +175,7 @@ noFill();
       
     } else
 
-      if ((miMinuto=>1)&&(miMinuto<2)) {
+      if ((miMinuto>=1)&&(miMinuto<2)) {
         colR=175;
         colG=41;
         colB=135;
@@ -183,7 +183,7 @@ noFill();
         
       } else
 
-        if ((miMinuto=>2)&&(miMinuto<3)) {
+        if ((miMinuto>=2)&&(miMinuto<3)) {
           colR=153;
           colG=51;
           colB=102;
@@ -191,7 +191,7 @@ noFill();
           
         } else
 
-          if ((miMinuto=>3)&&(miMinuto<4)) {
+          if ((miMinuto>=3)&&(miMinuto<4)) {
             colR=204;
             colG=51;
             colB=102;
@@ -199,7 +199,7 @@ noFill();
             
           } else
 
-            if ((miMinuto=>4)&&(miMinuto<5)) {
+            if ((miMinuto>=4)&&(miMinuto<5)) {
               colR=155;
               colG=51;
               colB=102;
@@ -207,7 +207,7 @@ noFill();
              
             } else
 
-              if ((miMinuto=>5)&&(miMinuto<6)) {
+              if ((miMinuto>=5)&&(miMinuto<6)) {
                 colR=155;
                 colG=0;
                 colB=102;
@@ -215,7 +215,7 @@ noFill();
                 
               } else
 
-                if ((miMinuto=>6)&&(miMinuto<7)) {
+                if ((miMinuto>=6)&&(miMinuto<7)) {
                   colR=204;
                   colG=51;
                   colB=51;
@@ -223,7 +223,7 @@ noFill();
                   
                 } else
 
-                  if ((miMinuto=>7)&&(miMinuto<8)) {
+                  if ((miMinuto>=7)&&(miMinuto<8)) {
                     colR=104;
                     colG=0;
                     colB=0;
@@ -231,7 +231,7 @@ noFill();
                     
                   } else
 
-                    if ((miMinuto=>8)&&(miMinuto<9)) {
+                    if ((miMinuto>=8)&&(miMinuto<9)) {
                       colR=255;
                       colG=51;
                       colB=51;
@@ -239,7 +239,7 @@ noFill();
                       
                     } else
 
-                      if ((miMinuto=>9)&&(miMinuto<10)) {
+                      if ((miMinuto>=9)&&(miMinuto<10)) {
                         colR=205;
                         colG=102;
                         colB=90;
@@ -247,13 +247,13 @@ noFill();
                         
                       } else
 
-                        if ((miMinuto=>10)&&(miMinuto<20)) {
+                        if ((miMinuto>=10)&&(miMinuto<20)) {
                           colR=255;
                           colG=153;
                           colB=51;
 } else
 
-                        if ((miMinuto=>20)&&(miMinuto<50)) {
+                        if ((miMinuto>=20)&&(miMinuto<50)) {
                           colR=178;
                           colG=53;
                           colB=51;
@@ -271,7 +271,7 @@ noFill();
   //color hora 
   if (miHora==miHora) {
 
-    if ((miHora=>0)&&(miHora<1)) {
+    if ((miHora>=0)&&(miHora<1)) {
       
 
       colR2=51;
@@ -279,7 +279,7 @@ noFill();
       colB2=102;
     } else
 
-      if ((miHora=>1)&&(miHora<2)) {
+      if ((miHora>=1)&&(miHora<2)) {
         
 
         colR2=102;
@@ -287,7 +287,7 @@ noFill();
         colB2=153;
       } else
 
-        if ((miHora=>2)&&(miHora<3)) {
+        if ((miHora>=2)&&(miHora<3)) {
           
 
           colR2=153;
@@ -295,14 +295,14 @@ noFill();
           colB2=153;
         } else
 
-          if ((miHora=>3)&&(miHora<4)) {
+          if ((miHora>=3)&&(miHora<4)) {
           
             colR2=153;
             colG2=51;
             colB2=102;
           } else
 
-            if ((miHora=>4)&&(miHora<5)) {
+            if ((miHora>=4)&&(miHora<5)) {
               
 
               colR2=204;
@@ -310,7 +310,7 @@ noFill();
               colB2=102;
             } else
 
-              if ((miHora=>5)&&(miHora<6)) {
+              if ((miHora>=5)&&(miHora<6)) {
                 
 
                 colR2=255;
@@ -318,7 +318,7 @@ noFill();
                 colB2=102;
               } else
 
-                if ((miHora=>6)&&(miHora<7)) {
+                if ((miHora>=6)&&(miHora<7)) {
                   
 
                   colR2=255;
@@ -326,7 +326,7 @@ noFill();
                   colB2=102;
                 } else
 
-                  if ((miHora=>7)&&(miHora<8)) {
+                  if ((miHora>=7)&&(miHora<8)) {
                    
 
                     colR2=204;
@@ -342,7 +342,7 @@ noFill();
                       colB2=0;
                     } else
 
-                      if ((miHora=>9)&&(miHora<10)) {
+                      if ((miHora>=9)&&(miHora<10)) {
                       
 
                         colR2=255;
@@ -350,7 +350,7 @@ noFill();
                         colB2=51;
                       } else
 
-                        if ((miHora=>10)&&(miHora<11)) {
+                        if ((miHora>=10)&&(miHora<11)) {
                           
 
                           colR2=205;
@@ -358,7 +358,7 @@ noFill();
                           colB2=51;
                         } else
 
-                          if ((miHora=>11)&&(miHora<12)) {
+                          if ((miHora>=11)&&(miHora<12)) {
                             
 
                             colR2=255;
