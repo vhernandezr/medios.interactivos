@@ -260,7 +260,7 @@ noFill();
                           
                         
                           } else
-                          if ((miMinuto=60)){
+                          if ((miMinuto==60)){
                              colR=204;
                             colG=153;
                             colB=51;
@@ -365,7 +365,7 @@ noFill();
                             colG2=153;
                             colB2=51;
                           } else
-                          if ((miHora=12)){
+                          if ((miHora==12)){
                           
 
                             colR2=255;
