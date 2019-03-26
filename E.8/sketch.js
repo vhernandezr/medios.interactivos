@@ -204,6 +204,7 @@ beginShape();
    
     endShape();
    ellipse(x4[i]-24, y4[i]+10, 30, 30);
+    triangle(x4[i]-24, y4[i]+10, x4[i]-54, y4[i]+10, x4[i]-24, y4[i]+40);
     
    if(x4[i]<width || y4[i]>height){
     x4[i]=x4[i]+random(-5,5);
