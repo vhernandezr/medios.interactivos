@@ -77,7 +77,7 @@ function draw() {
   if (estado == INTRODUCCION) {
     background(100, 200, 200);
     text("Toca la pantalla para comenzar", width / 2 - 60, height / 2);
-    text("Seleciona la información de escolaridad por departamento que quieres ver", width / 2 - 285, height / 2 + 20);
+    text("Seleciona la información de escolaridad por departamento que quieres ver", width - 485, height / 2 + 20);
     text("¡Inclina la pantalla y descubre más!", width / 2 - 70, height / 2 + 50);
     ///////✔ESTADO 1 = Animación durante M cantidad de tiempo
 
