@@ -152,9 +152,9 @@ function draw() {
 
       if (estado2) {
         fill(255);
-        rect(20 * escala_x,  (windowHeight - 80) * escala_y, 180, 50);
+        rect(20 * escala_x,  (500 - 80) * escala_y, 180, 50);
         fill(0);
-        text(textInfo + "%", 30 * escala_x, (windowHeight - 50) * escala_y);
+        text(textInfo + "%", 30 * escala_x, (500 - 50) * escala_y);
         //image(loadImage(rutaImagen), 20, 20);
       }
     }
