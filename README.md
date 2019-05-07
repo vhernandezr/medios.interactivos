@@ -11,4 +11,4 @@ Ejercicios de clase/ 2019
 8. [Ecosistema](https://vhernandezr.github.io/medios.interactivos/E-8.2/)/[Codigo](https://github.com/vhernandezr/medios.interactivos/blob/master/E-8.2/sketch.js)
 9. [Base de datos](https://vhernandezr.github.io/medios.interactivos/E-9/)/[Codigo](https://github.com/vhernandezr/medios.interactivos/blob/master/E-9/sketch.js)
 10.  [Final](https://vhernandezr.github.io/medios.interactivos/E-10/)/[Codigo](https://github.com/vhernandezr/medios.interactivos/blob/master/E-10/sketch.js)
-10.  [FINAL](https://vhernandezr.github.io/medios.interactivos/FINAAAL/)/[Codigo](https://github.com/vhernandezr/medios.interactivos/blob/master/FINAAAL/sketch.js)
+10.  [FINAL](https://vhernandezr.github.io/medios.interactivos/FINAAL/)/[Codigo](https://github.com/vhernandezr/medios.interactivos/blob/master/FINAAL/sketch.js)
