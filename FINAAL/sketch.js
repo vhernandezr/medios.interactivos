@@ -50,8 +50,8 @@ var escala_y;
 
 
 function setup() {
-  escala_x = windowWidth / 600;
-  escala_y = windowHeight / 500;
+  escala_x = 1;
+  escala_y = 1;
   createCanvas(600, 500);
   background(255);
   ///
